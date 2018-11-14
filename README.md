@@ -5,4 +5,4 @@
 
 如果你只是想简单的访问Google，只需要将 https://raw.githubusercontent.com/wangpengsdf/omega_optios/master/opts.txt 设置为SwitchyOmega的规则列表即可
 
-
+配置中科学上网情景模式名称为SS
